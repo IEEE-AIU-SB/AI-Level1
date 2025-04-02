@@ -1,0 +1,11 @@
+id,name,department,salary,join_date,performance_score,projects_completed,is_manager
+1,John Doe,Engineering,75000,5/15/2020,87.5,5,TRUE
+2,Jane Smith,Marketing,68000,11/3/2019,,3,FALSE
+3,Robert Johnson,Engineering,82000,3/22/2018,92.1,7,TRUE
+4,Jane Smith,Marketing,68000,11/3/2019,78.3,3,FALSE
+5,Sarah Williams,Sales,,7/10/2021,85,4,FALSE
+6,Michael Brown,Engineering,91000,9/18/2017,94.7,9,TRUE
+7,Emily Davis,HR,72000,2/28/2020,81.2,2,FALSE
+8,Robert Johnson,Engineering,82000,3/22/2018,92.1,7,TRUE
+9,David Wilson,Sales,65000,1/15/2022,,1,FALSE
+10,,Engineering,88000,6/30/2019,89.5,6,FALSE
